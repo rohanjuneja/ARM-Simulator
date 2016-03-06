@@ -4,9 +4,8 @@
 The project is developed as part of Computer Architecture class
 Project Name: Functional Simulator for subset of ARM Processor
 
-Developer's Name:
-Developer's Email id:
-Date: 
+Developer's Name: Rohan Juneja
+Developer's Email id: junejarohan25@gmail.com
 
 */
 
